@@ -1,0 +1,51 @@
+html {
+  box-sizing: border-box;
+}
+*, *::before, *::after {
+  box-sizing: inherit;
+}
+body {
+  background-color: #FDF6E3;
+}
+header, footer {
+  font-size: 1.5rem;
+}
+nav > ul {
+  font-family: sans-serif;
+}
+.logo {
+  text-transform: uppercase;
+}
+.wrapper {
+  background-color: #EEE8D5;
+}
+#contents, #favs, #facts, #types {
+  color: #93A1A1;
+}
+.wrapper > .dfn {
+     background-color: #B58900;
+}
+.wrapper > .dfn > strong {
+  color: #fff;
+}
+a:not(.no-highlight) {
+  background-color: #719E07;
+}
+[rel=“external”] {
+  background-color: #2694D8;
+}
+ol > li:first-child {
+  color: #719E47;
+}
+ol > li:last-child {
+  color: #2AA198;
+}
+.types > li:nth-child(odd) {
+  background-color: #657BA3;
+}
+.types > li:nth-child(even) {
+  background-color: #586E75;
+}
+.types > li:nth-child(3n) {
+  background-color: #D04B16;
+}
