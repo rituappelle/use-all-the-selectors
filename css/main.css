@@ -5,7 +5,7 @@ html {
   box-sizing: inherit;
 }
 body {
-  background-color: #FDF6E3;
+  background-color: #fdf6e3;
 }
 header, footer {
   font-size: 1.5rem;
@@ -17,35 +17,35 @@ nav > ul {
   text-transform: uppercase;
 }
 .wrapper {
-  background-color: #EEE8D5;
+  background-color: #eee8d5;
 }
 #contents, #favs, #facts, #types {
-  color: #93A1A1;
+  color: #93a1a1;
 }
 .wrapper > .dfn {
-  background-color: #B58900;
+  background-color: #b58900;
 }
 .wrapper > .dfn > strong {
   color: #fff;
 }
 a:not(.no-highlight) {
-  background-color: #719E07;
+  background-color: #719e07;
 }
 [rel=“external”] {
-  background-color: #2694D8;
+  background-color: #2694d8;
 }
 ol > li:first-child {
-  color: #719E47;
+  color: #719e47;
 }
 ol > li:last-child {
-  color: #2AA198;
+  color: #2aa198;
 }
 .types > li:nth-child(odd) {
-  background-color: #657BA3;
+  background-color: #657ba3;
 }
 .types > li:nth-child(even) {
-  background-color: #586E75;
+  background-color: #586e75;
 }
 .types > li:nth-child(3n) {
-  background-color: #D04B16;
+  background-color: #d04b16;
 }
