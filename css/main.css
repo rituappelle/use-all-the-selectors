@@ -33,6 +33,7 @@ nav > ul {
 .wrapper > .dfn {
   background-color: #b58900;
 }
+
 .wrapper > .dfn > strong {
   color: #fff;
 }
@@ -40,6 +41,7 @@ nav > ul {
 a:not(.no-highlight) {
   background-color: #719e07;
 }
+
 
 [rel=“external”] {
   background-color: #2694d8;
